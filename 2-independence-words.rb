@@ -1,7 +1,8 @@
 ##
 # Challenge: Write an algorithm that lists all the words in the 
-# Declaration of Independence and prints the number of times the 
-# word has occured in the text alongside it. 
+# Declaration of Independence and the number of times each 
+# word has occured in the text alongside it. Print out the top 50
+# most used words.
 #
 # =>  Hint: The concept of a Hash collection is fundamental to this!
 #
